@@ -1,0 +1,144 @@
+| Computer name
+| Manufacturer
+| Date introduced
+| CPU
+| clock rate
+| Max RAM
+| Floppy disk capacity
+| Notable features
+
+| [[Hyperion (computer)|Hyperion]]
+| Dynalogic
+| Jan 1983
+| 8088
+| 4.77&nbsp;MHz
+| 640 KB
+| 320 KB 
+| Canadian, licensed but never sold by [[Commodore International|Commodore]]
+|-
+| [[Olivetti&nbsp;M24]]/[[AT&T&nbsp;6300]]
+| [[Olivetti]], marketed by [[AT&T]]
+| 1983 (AT&T&nbsp;6300 June&nbsp;1984)
+| 8086
+| 8&nbsp;MHz (later 10&nbsp;MHz)
+| 640 KB
+| 360 KB (later 720&nbsp;KB)
+| true IBM compatible; optional 640x400 color graphics
+|-
+| [[Zenith Z-100]]
+| [[Zenith Data Systems]]
+| June 1982
+| 8088
+| 4.77&nbsp;MHz
+| 768 KB
+| 360 KB
+| optional 8 color 640x255 graphics, external 8" floppy drives
+|-
+| [[HP-150]]
+| [[Hewlett-Packard]]
+| Nov 1983
+| 8088
+| 8&nbsp;MHz
+| 640 KB
+| 270 KB (later 710&nbsp;KB)
+| primitive touchscreen
+|-
+| [[Compaq Portable]]
+| [[Compaq]]
+| Jan 1983
+| 8088
+| 4.77&nbsp;MHz
+| 640 KB
+| 360 KB
+| sold as a true IBM compatible
+|-
+| [[Compaq Deskpro]]
+| [[Compaq]]
+| 1984
+| 8086
+| 8&nbsp;MHz
+| 640 KB
+| 360 KB
+| sold as true IBM XT compatible
+|-
+| MPC 1600
+| [[Columbia Data Products]]
+| June 1982
+| 8088
+| 4.77&nbsp;MHz
+| 640 KB
+| 360 KB
+| true IBM compatible, credited as first PC&nbsp;clone
+|-
+| Eagle PC / 1600 series
+| [[Eagle Computer]]
+| 1982
+| 8086
+| 4.77&nbsp;MHz
+| 640 KB
+| 360 KB 
+| 750×352 mono graphics first 8086 CPU
+|-
+| [[Texas Instruments Professional Computer|TI Professional Computer]]
+| [[Texas Instruments]]
+| Jan 1983
+| 8088
+| 5&nbsp;MHz
+| 256 KB
+| 320 KB
+| 720x300 color graphics
+|-
+| [[DEC Rainbow]]
+| [[Digital Equipment Corporation]]
+| 1982
+| 8088
+| 4.81&nbsp;MHz
+| 768 KB
+| 400 KB
+| 132x24 text mode, 8088 and [[Z80]] CPUs
+|-
+| Wang PC
+| [[Wang Laboratories]]
+| Aug 1985
+| 8086
+| 8&nbsp;MHz
+| 512 KB
+| 360 KB
+| 800x300 mono graphics
+|-
+| [[MBC-550]]
+| [[Sanyo]]
+| 1982
+| 8088
+| 3.6&nbsp;MHz
+| 256 KB
+| 360 KB (later 720&nbsp;KB)
+| 640x200 8 color graphics (R, G, B bitplanes)
+|-
+| [[Apricot PC]]
+| [[Apricot Computers]]
+| late 1983
+| 8086
+| 4.77&nbsp;MHz
+| 768 KB
+| 720 KB
+| 800x400 mono graphics, 132x50 text mode
+|-
+| TS-1603
+| [[Televideo]]
+| Apr 1983
+| 8088
+| 4.77&nbsp;MHz
+| 256 KB
+| 737 KB
+| keyboard had palm rests, 16 function keys; built-in modem
+|-
+| '''[[Tandy 2000]]'''
+| [[Tandy Corporation]]
+| Sept 1983
+| 80186
+| 8&nbsp;MHz
+| 768 KB
+| 720 KB
+| redefinable character set, optional 640x400 8-color or mono graphics
+|}
